@@ -1,8 +1,8 @@
 # Báo cáo Day 5
 
-- Mã học viên theo lớp: [Cần bổ sung]
-- Ngày / CVAT local: 18/09/2026 / CVAT local của lớp.
-- Công cụ đã dùng: CVAT, Brush; notebook tự kiểm và script chấm của repo.
+- Mã học viên theo lớp: 2A202602308
+- Ngày / CVAT local: 17/09/2026 / CVAT local.
+- Công cụ đã dùng: CVAT, Brush, polygon.
 
 ## 1. Bài đã nộp
 
@@ -21,7 +21,7 @@ Các ZIP nằm trong `submissions/`. Cột điểm dưới đây là điểm t�
 | cp6_coverage | cp6_coverage.zip | 1 / 1 | 3 |
 | **Tổng tối đa** | | | **100** |
 
-Tự kiểm: đủ 9 ZIP, không có lỗi cấu trúc. Ba phần chính đạt **47,6/82** theo [bảng điểm](reports/tiers/SCORECARD.md). Theo hướng dẫn của thầy được thông báo, mỗi checkpoint có bài được tính 3 điểm, không cần đối chiếu đáp án; đủ 6 checkpoint được **18/18**. Tổng theo cách tính này: **47,6 + 18 = 65,6/100**, chưa tính bonus.
+Tự kiểm: đủ 9 ZIP, không có lỗi cấu trúc. Ba phần chính đạt **47,6/82** theo [bảng điểm](reports/tiers/SCORECARD.md).Đủ 6 checkpoint được **18/18**. Tổng theo cách tính này: **47,6 + 18 = 65,6/100**.
 
 ## 2. Một quyết định trước khi dùng gợi ý
 
